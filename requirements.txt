@@ -1,0 +1,30 @@
+# Deep Learning Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.10.0  # Required for some detection models
+
+# Object Detection and Tracking
+ultralytics>=8.0.0  # For YOLOv8
+opencv-python>=4.7.0
+opencv-contrib-python>=4.7.0  # For additional OpenCV functionality
+supervision>=0.1.0  # Helper library for detection visualization
+deep-sort-realtime>=1.3.0  # DeepSORT implementation
+
+# OCR Libraries
+pytesseract>=0.3.10  # Tesseract OCR wrapper
+easyocr>=1.7.0  # Easy to use OCR
+pillow>=9.4.0  # Image processing
+
+# Performance Optimization
+onnx>=1.13.1  # ONNX Runtime for model optimization
+onnxruntime-gpu>=1.13.1  # GPU acceleration for ONNX models
+tqdm>=4.64.1  # Progress bar
+numpy>=1.23.5
+
+# Video Processing
+moviepy>=1.0.3  # For video editing capabilities
+
+# Utilities
+matplotlib>=3.7.0  # For visualization
+pandas>=1.5.3  # For data handling
+scikit-learn>=1.2.1  # For any ML utilities 
