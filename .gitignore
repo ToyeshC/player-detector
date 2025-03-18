@@ -60,9 +60,7 @@ logs/
 
 # input
 data/*
-
-# output
-output/*
+!data/
 
 # yolov
 yolov8x.pt

@@ -31,7 +31,7 @@ player-detector/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/player-detector.git
+   git clone https://github.com/ToyeshC/player-detector.git
    cd player-detector
    ```
 
